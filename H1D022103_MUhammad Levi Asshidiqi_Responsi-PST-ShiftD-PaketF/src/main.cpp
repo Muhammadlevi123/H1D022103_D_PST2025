@@ -19,7 +19,7 @@ void setup() {
   myServo.attach(servoPin);
   myServo.write(0);
 
-  Serial.println("Sistem palang otomatis siap...");
+  Serial.println("HATI - HATI!, Sistem Palang Otomatis...)
 }
 
 void loop() {
